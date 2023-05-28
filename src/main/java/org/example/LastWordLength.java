@@ -3,6 +3,9 @@ public class LastWordLength {
         // Remove any trailing whitespace from the string
         s = s.trim();
 
+
+
+
         // Find the last space in the string
         int lastSpaceIndex = s.lastIndexOf(" ");
 

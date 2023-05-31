@@ -23,6 +23,7 @@ public class LastWord {
         return s.substring(lastStartIndex).length();
     }
 
+
     public static void main(String[] args) {
         String s1 = "Hello World";
         int length1 = Last(s1);
